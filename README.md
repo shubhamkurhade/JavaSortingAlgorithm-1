@@ -1,3 +1,5 @@
+This is my mini Java project - 1
+
 # JavaSortingAlgorithm-1
 Simple Sorting algorithm code based on all the popular sorting techniques.
 
